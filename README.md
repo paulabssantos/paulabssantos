@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bug Report Taiga](https://github.com/paulabssantos/bug-report-taiga)
 
-- 🌱 I’m currently learning **Aws, React**
+- 🌱 I’m currently learning **C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
