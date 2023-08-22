@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Paula Santos :grin: </h1>
 <h3 align="center">I'm a back-end developer exploring Software Engineering</h3>
 
-- 🔭 I’m currently working on [Bug Report Taiga](https://github.com/paulabssantos/bug-report-taiga)
+- 🔭 I’m currently working on [API Software Documentation](https://github.com/paulabssantos/api-software-documentation)
 
 - 🌱 I’m currently learning **C#**
 
